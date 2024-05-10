@@ -1,7 +1,7 @@
 Vegas Lines
 ================
 
-OLD REPO -- SCRAPER NO LONGER WORKS. USE THE [bettoR](https://papagorgio23.github.io/bettoR/) PACKAGE
+OLD REPO -- SCRAPER NO LONGER WORKS. USE THE [bettoR](https://papagorgio23.github.io/bettoR/) PACKAGE. Now the bettoR scraper function no longer works. 
 
 This function is used to scrape the historical Vegas Lines for NFL and NBA games
 --------------------------------------------------------------------------------
